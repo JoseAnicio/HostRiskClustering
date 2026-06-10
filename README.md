@@ -23,6 +23,15 @@ Instead of manually triaging hosts, this pipeline:
 
 ---
 
+## Visualizations
+
+<p>
+  <img src="images/Elbow Method.png" width="45%"/>
+  <img src="images/Host Clustering by Risk Profile.png" width="45%"/>
+</p>
+
+---
+
 ## Input data
 
 The notebook expects a CSV at `data/sample.csv` with the following columns:
