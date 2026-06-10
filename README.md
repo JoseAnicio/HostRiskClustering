@@ -26,8 +26,8 @@ Instead of manually triaging hosts, this pipeline:
 ## Visualizations
 
 <p>
-  <img src="images/Elbow Method.png" width="45%"/>
-  <img src="images/Host Clustering by Risk Profile.png" width="45%"/>
+  <img src="images/Elbow Method.png" width="50%"/>
+  <img src="images/Host Clustering by Risk Profile.png" width="42.1%"/>
 </p>
 
 ---
